@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">MyApiTest - COLOQUE O SEU NOME AQUI</string>
+    <string name="app_name">API CARS - HENRIQUE ANDREW DA SILVA</string>
+    <string name="sucesso_exclusao">Carro excluído com sucesso!</string>
+    <string name="erro_exclusao">Erro ao excluir o carro!</string>
+    <string name="erro_exclusao_form">Preencha o campo %1$s</string>
+    <string name="sucesso_cadastro">Carro %1$s cadastrado com sucesso!</string>
+    <string name="erro_cadastro">Erro ao cadastrar o carro!</string>
+    <string name="sucesso_atualizacao">Carro atualizado com sucesso!</string>
+    <string name="erro_atualizacao">Erro ao atualizar o cadastro do carro!</string>
+    <string name="permissao_negada">Permissão de localização negada</string>
+    <string name="erro_localizacao">Erro ao obter localização</string>
+    <string name="permissaocamera_negada">Permissão para utilização da Câmera Negada</string>
+    <string name="verificar_sms">Verificar SMS</string>
+    <string name="hint_verificar_sms">123456</string>
+    <string name="enviar_sms">Enviar SMS</string>
+    <string name="hint_telefone">+55 11 912345678</string>
+    <string name="code_brazil">+55</string>
+    <string name="codigo_verif_enviado">Código de verificação enviado</string>
+    <string name="sair">Sair</string>
+    <string name="error_validate_take_picture">Favor, tire uma foto.</string>
+
 </resources>

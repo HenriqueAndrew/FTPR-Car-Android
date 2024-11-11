@@ -44,3 +44,7 @@ local.properties
 # OS specific files
 .DS_Store
 Thumbs.db
+
+# Ignore arquivos relacionados às chaves de API
+google-services.json
+.env
